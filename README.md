@@ -39,7 +39,8 @@ While the current model focuses on predicting IMDb ratings due to computational 
 
 The planned developments include:
 * **Expanding Predictive Capabilities:**
-  * **Genre Classification:** Automatically categorizing scripts into their respective genres, helping studios understand how well a script fits within a popular or emerging genre.
-  * **Character Analysis:** Evaluating character depth and dynamics, which could influence audience engagement and the success of the film.
-  * **Scene-wise Sentiment Analysis:** Understanding the emotional tone of individual scenes to predict audience reactions, which could guide editing and storytelling decisions.
-  * **Budget and Revenue Prediction:** Estimating the financial performance of a movie based on script features, market trends, and historical data.
+  * **Genre Classification:** Automatically categorizing scripts into their respective genres, helping studios understand how well a script fits within a popular or emerging genre
+  * **Character Analysis:** Evaluating character depth and dynamics, which could influence audience engagement and the success of the film
+  * **Scene-wise Sentiment Analysis:** Understanding the emotional tone of individual scenes to predict audience reactions, which could guide editing and storytelling decisions
+  * **Budget and Revenue Prediction:** Estimating the financial performance of a movie based on script features, market trends, and historical data
+
